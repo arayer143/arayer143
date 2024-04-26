@@ -37,7 +37,7 @@
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=arayer143&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=arayer143&show_icons=true&hide_border=true&theme=dark" width="100%" align="right" >
 
 <br>
 <div align="center">
