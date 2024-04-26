@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sumit</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Alex Rayer</h1>
+<h3 align="center">A passionate Web Developer trying to show that he has what it takes to start a career in Web Development </h3>
 <h4 align="center">Frontend Developer at betterhalf</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dey-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
