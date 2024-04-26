@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning: Any new web technologies that are propular
 
-- 👨‍💻 All of my projects are available at [sumitdey.tech](https://sumitdey.tech)
+- 👨‍💻 All of my projects are available at [(https://github.com/arayer143?ocid=AIDcmmcwpj1e5v_SEM__k_Cj0KCQjw_qexBhCoARIsAFgBlevyXt4f4cWk-Xe8SHkqyJ6W-MsNEZGPmGVvDVPELxtCGeQPmxrl_m0aAgkoEALw_wcB_k_)]
 
 
 - 📫 How to reach me **dev.alexrayer7@gmail.com**
