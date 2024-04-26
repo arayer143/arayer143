@@ -6,18 +6,17 @@
 
 
 [<img src="https://img.shields.io/twitter/follow/sumit_zip?logo=twitter&style=for-the-badge" />](https://twitter.com/sumit_zip)
- [<img src="https://img.shields.io/youtube/channel/views/UClW8d1f5m0QAE_Ig024EP6A?logo=youtube&style=for-the-badge">](https://www.youtube.com/c/BackbenchCoder)
-[<img src="https://img.shields.io/github/followers/Dey-Sumit?logo=github&style=for-the-badge&logoColor=white">](https://github.com/Dey-Sumit)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.sumitdey@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/code-sumit/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://sumitdey.tech)
+
+[<img src="https://img.shields.io/github/followers/Dey-Sumit?logo=github&style=for-the-badge&logoColor=white">](https://github.com/arayer143)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.alexrayer7@gmail.com)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alex-rayer/)
+[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://alexrayer.com)
 
 
 
 
 - 🌱 I’m currently learning: Any new web technologies that are propular
 
-- 👨‍💻 All of my projects are available at [sumitdey.tech]([https://sumitdey.tech](https://github.com/arayer143?ocid=AIDcmmcwpj1e5v_SEM__k_Cj0KCQjw_qexBhCoARIsAFgBlevyXt4f4cWk-Xe8SHkqyJ6W-MsNEZGPmGVvDVPELxtCGeQPmxrl_m0aAgkoEALw_wcB_k_))
 
 
 - 📫 How to reach me **dev.alexrayer7@gmail.com**
