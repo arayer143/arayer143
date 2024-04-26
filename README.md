@@ -4,6 +4,7 @@
 <h4 align="center">https://raydunnsolutions.com/</h4>
 
 
+<img style="width:100%;height:3px;" src="./bar.gif" />
 
 [<img src="https://img.shields.io/twitter/follow/sumit_zip?logo=twitter&style=for-the-badge" />](https://twitter.com/Alex_Rayer_)
 
