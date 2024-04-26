@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer trying to show that he has what it takes to start a career in Web Development </h3>
 <h4 align="center">Frontend Developer at betterhalf</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dey-sumit&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arayer143t&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> </p>
 
 
 [<img src="https://img.shields.io/twitter/follow/sumit_zip?logo=twitter&style=for-the-badge" />](https://twitter.com/Alex_Rayer_)
