@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Rayer</h1>
 <h3 align="center">A passionate Web Developer trying to show that he has what it takes to start a career in Web Development </h3>
-<h4 align="center">Frontend Developer at betterhalf</h4>
+<h4 align="center">Check out my small web design agency to see some of my work! </h4>
+<a href="https://raydunnsolutions.com/"></a>
 
 
 
@@ -32,7 +33,7 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
 <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" style="margin:2px;"/>
-<img alt="tailwind" src ="https://img.shields.io/badge/tailwind-%234ea94b.svg?&style=for-the-badge&logo=tailwind&logoColor=white" style="margin:2px;"/>
+
 <br/>
 </p>
 
