@@ -6,7 +6,7 @@
 
 <img style="width:100%;height:3px;" src="./bar.gif" />
 
-[<img src="https://img.shields.io/twitter/followme?logo=twitter&style=for-the-badge" />](https://twitter.com/Alex_Rayer_)
+[<img src="https://img.shields.io/twitter/follow/me?logo=twitter&style=for-the-badge" />](https://twitter.com/Alex_Rayer_)
 
 [<img src="https://img.shields.io/github/followers/arayer143?logo=github&style=for-the-badge&logoColor=white">](https://github.com/arayer143)
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.alexrayer7@gmail.com)
