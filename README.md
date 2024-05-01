@@ -20,7 +20,7 @@
 
 
 
-- 📫 How to reach me **dev.alexrayer7@gmail.com**
+- 📫 How to reach me **alexrayer7@gmail.com**
 
 <h3 align="left">Languages and Tools I am familiar with:</h3>
 
