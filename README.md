@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alex Rayer</h1>
 <h3 align="center">A passionate Web Developer trying to show that he has what it takes to start a career in Web Development </h3>
 <h4 align="center">Check out my small web design agency below to see some of my work! </h4>
-<h4 align="center">https://raydunnsolutions.com/</h4>
+<button align="center">https://raydunnsolutions.com/</button>
 
 
 
