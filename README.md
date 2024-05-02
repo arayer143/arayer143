@@ -14,6 +14,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://alexrayer.com)
 
 
+<img style="width:100%;height:3px;" src="./bar.gif" />
 
 
 - 🌱 I’m currently learning: Any new web technologies that are propular
