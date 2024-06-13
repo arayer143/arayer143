@@ -15,7 +15,7 @@
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://alexrayer.com)
 
 
-<img style="width:100%;height:3px;" src="./bar.gif" />
+<img style="width:100%;height:4px;" src="./bar.gif" />
 
 
 
