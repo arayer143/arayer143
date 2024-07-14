@@ -54,4 +54,7 @@
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=arayer143&rank=S,AAA,AA,A&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+https://github-profile-trophy.vercel.app/?username=arayer143&theme=flat
 </div>
