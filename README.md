@@ -63,8 +63,6 @@
 
 ### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
 
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -97,14 +95,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=arayer143&theme=radical&column=4&margin-w=15&margin-h=15" alt="arayer143's GitHub Trophies"/>
 </p>
 
-## 📌 Pinned Repositories
+## 📌 Featured Projects
 
 <p align="center">
   <a href="https://github.com/arayer143/RayDunn-Web-Solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=RayDunn-Web-Solutions&theme=radical" alt="RayDunn Web Solutions Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=RayDunn-Web-Solutions&theme=radical" alt="RayDunn Web Solutions"/>
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/arayer143/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=Portfolio-Website&theme=radical" alt="Portfolio Website Repo"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=Portfolio-Website&theme=radical" alt="Portfolio Website"/>
   </a>
 </p>
 
