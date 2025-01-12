@@ -1,58 +1,117 @@
-<h1 align="center">Hi 👋, I'm Alex Rayer</h1>
-<h3 align="center">A passionate Freelance Web Developer trying to show that he has what it takes to start a career in Web Development </h3>
-<h4 align="center">Check out my small web design agency below to see some of my work! </h4>
+<h1 align="center">Hi there, I'm Alex Rayer 👋</h1>
 
-<h4 align="center">https://raydunnsolutions.com/</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+Expert;Passionate+about+Modern+Web+Tech" alt="Typing SVG" />
+</p>
 
+<h3 align="center">A passionate Freelance Web Developer showcasing expertise in modern web technologies</h3>
 
+<p align="center">
+  <a href="https://raydunnsolutions.com/">
+    <img src="https://img.shields.io/badge/Portfolio-RayDunn%20Solutions-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
 
+<p align="center">
+  <a href="https://twitter.com/Alex_Rayer_">
+    <img src="https://img.shields.io/twitter/follow/Alex_Rayer_?logo=twitter&style=for-the-badge" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/arayer143">
+    <img src="https://img.shields.io/github/followers/arayer143?logo=github&style=for-the-badge" alt="GitHub followers" />
+  </a>
+  <a href="mailto:dev.alexrayer7@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/alex-rayer/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://alexrayer.com">
+    <img src="https://img.shields.io/badge/Portfolio-alexrayer.com-black?style=for-the-badge" alt="Personal Website" />
+  </a>
+</p>
 
-[<img src="https://img.shields.io/twitter/follow/me?logo=twitter&style=for-the-badge" />](https://twitter.com/Alex_Rayer_)
+<hr>
 
-[<img src="https://img.shields.io/github/followers/arayer143?logo=github&style=for-the-badge&logoColor=white">](https://github.com/arayer143)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:dev.alexrayer7@gmail.com)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/alex-rayer/)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://alexrayer.com)
+## 🚀 About Me
 
+- 🔭 I'm currently working on expanding my web development agency, [RayDunn Solutions](https://raydunnsolutions.com/)
+- 🌱 I'm constantly learning new web technologies to stay at the cutting edge
+- 💼 Open for freelance projects and full-time opportunities
+- 📫 How to reach me: [alexrayer7@gmail.com](mailto:alexrayer7@gmail.com)
 
-<img style="width:100%;height:4px;" src="./bar.gif" />
-
-
-
-- 🌱 I’m currently learning: Any new web technologies that are propular
-
-
-
-- 📫 How to reach me **alexrayer7@gmail.com**
-
-<h3 align="left">Languages and Tools I am familiar with:</h3>
+## 🛠️ Skills & Technologies
 
 <p align="center">
 
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin:2px;"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin:2px;"/>
-<img alt="Saas" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" style="margin:2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
-<img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" style="margin:2px;"/>
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin:2px;"/>
-<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" style="margin:2px;"/>
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="margin:2px;"/>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin:2px;"/>
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" style="margin:2px;"/>
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-<img alt=".NET" src ="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" style="margin:2px;"/>
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<br/>
+### Testing
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
+![Google Tag Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB?style=for-the-badge&logo=google%20tag%20manager&logoColor=white)
+
 </p>
 
-## 🏆 *Github Status*
+## 📊 GitHub Stats
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arayer143&theme=dark" width="48%" >
-<br>
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arayer143&theme=radical" width="48%" alt="arayer143's GitHub streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arayer143&show_icons=true&theme=radical" width="48%" alt="arayer143's GitHub stats"/>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arayer143&rank=S,AAA,AA,A&theme=radical&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arayer143&layout=compact&theme=radical" alt="arayer143's Top Languages"/>
+</p>
 
-</div>
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=arayer143&theme=radical&column=4&margin-w=15&margin-h=15" alt="arayer143's GitHub Trophies"/>
+</p>
+
+## 📌 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/arayer143/RayDunn-Web-Solutions">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=RayDunn-Web-Solutions&theme=radical" alt="RayDunn Web Solutions Repo"/>
+  </a>
+  <a href="https://github.com/arayer143/Portfolio-Website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=Portfolio-Website&theme=radical" alt="Portfolio Website Repo"/>
+  </a>
+</p>
+
+<hr>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arayer143&label=Profile%20views&color=0e75b6&style=flat" alt="arayer143's profile views" />
+</p>
+
+<p align="center">Thanks for visiting my profile! Let's connect and build amazing web experiences together! 🚀</p>
