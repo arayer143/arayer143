@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Alex Rayer 👋</h1>
+<h1 align="center">Hi 👋, I'm Alex Rayer</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3498DB&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+Expert;Passionate+about+Modern+Web+Tech" alt="Typing SVG" />
@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<hr>
+<img style="width:100%;height:4px;" src="./bar.gif" />
 
 ## 🚀 About Me
 
@@ -93,19 +93,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=arayer143&theme=radical&column=4&margin-w=15&margin-h=15" alt="arayer143's GitHub Trophies"/>
-</p>
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/arayer143/RayDunn-Web-Solutions">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=RayDunn-Web-Solutions&theme=radical" alt="RayDunn Web Solutions"/>
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/arayer143/Portfolio-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arayer143&repo=Portfolio-Website&theme=radical" alt="Portfolio Website"/>
-  </a>
 </p>
 
 <hr>
